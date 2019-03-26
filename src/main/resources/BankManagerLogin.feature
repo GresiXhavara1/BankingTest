@@ -20,3 +20,4 @@ Feature: Log In Of Bank Manager
       When manager find for a customer
       And he clicks delete button
       Then the customer is deleted
+git 
